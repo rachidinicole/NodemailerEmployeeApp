@@ -1,0 +1,42 @@
+[
+  {
+    "id": "A1",
+    "name": "Malapoloxa",
+    "surname": "Seaba",
+    "email": "malapoloshaSeaba@gmail.com",
+    "phone": "908987",
+    "position": "CEO"
+  },
+  {
+    "id": "B2",
+    "name": "Abigail",
+    "surname": "Abigail",
+    "email": "Abigailmorongoa@gmail.com",
+    "phone": "1235670",
+    "position": "Coodinator"
+  },
+  {
+    "id": "C3",
+    "name": " Dolo",
+    "surname": "Seja",
+    "email": "abrinaseja@gmail.com",
+    "phone": "33567892",
+    "position": "COO"
+  },
+  {
+    "id": "D4",
+    "name": "Moloko",
+    "surname": "Chris",
+    "email": "molokochris@mlab.com",
+    "phone": "98765489",
+    "position": "Host"
+  },
+  {
+    "id": "E5",
+    "name": "Nicole",
+    "surname": "Walker",
+    "email": "rachidinicole@gmail.com",
+    "phone": "67676889",
+    "position": "Client"
+  }
+]
